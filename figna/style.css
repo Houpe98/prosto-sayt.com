@@ -1,0 +1,29 @@
+
+body {
+    background: url(https://ipbmafia.ru/uploads/monthly_2022_07/1.png.02384e0516538abe4dfacbdd30097d5d.png) no-repeat;
+    background-size: cover;
+    font-family: Courier New;
+    color: lightgrey;
+}
+/*цвет заднего фона*/
+.background-color {
+    background-color: darkgreen;
+    width: 44%;
+    border-radius: 7px;
+}
+p {
+    font-size: 25px;
+    font-weight: bolder;
+}
+ .photo1 {
+    border: solid 10px;
+    border-color: darkgreen;
+    border-radius: 50px;
+    padding: 0px 0px 0px 0px;
+ }
+ .photo2 {
+    border: solid 10px;
+    border-color: blue;
+    border-radius: 50px;
+    padding: 0px 0px 0px 0px;
+ }
